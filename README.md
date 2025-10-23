@@ -7,4 +7,5 @@ This repository contains my solution to a test assignment as part of the selecti
 You can view and run the solution directly in Google Colaboratory by clicking the badge below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/senyasenior/SBER_DS_IDP_test-assignment/blob/main/SBER_DS_IDP_test_assignment.ipynb)
-
+## Working Dataframe
+The csv file with Gigachat's responses (data.csv) is located in the root directory 
